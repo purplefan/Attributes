@@ -1,0 +1,17 @@
+{
+    "name": "grzegorz/attributes",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Purplefan\\Attributes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "purplefan"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    }
+}
